@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.951f0e44.css",
+    "main.js": "/static/js/main.481ba3bb.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/FrontPageBG.jpg": "/static/media/FrontPageBG.b0e9e281229703afa5fb.jpg",
+    "static/media/Shopping2.png": "/static/media/Shopping2.039cac8f4547c4d6c073.png",
+    "static/media/weather.png": "/static/media/weather.93abd5e9ad75d2a39cf5.png",
+    "static/media/shopping.jpg": "/static/media/shopping.ec429599ae34fce36904.jpg",
+    "static/media/jym.jpg": "/static/media/jym.e8de30af6db8df6dbf16.jpg",
+    "static/media/reactbg4.webp": "/static/media/reactbg4.b3b15da15a7830396575.webp",
+    "static/media/reactbg3.webp": "/static/media/reactbg3.3c7d4c972eb814a48fdc.webp",
+    "static/media/bg2.avif": "/static/media/bg2.c36f0bb93157ece20fb0.avif",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.951f0e44.css.map": "/static/css/main.951f0e44.css.map",
+    "main.481ba3bb.js.map": "/static/js/main.481ba3bb.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.951f0e44.css",
+    "static/js/main.481ba3bb.js"
+  ]
+}
